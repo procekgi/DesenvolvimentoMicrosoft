@@ -1,0 +1,7 @@
+C:\Users\L04246\source\repos\ListaDeExerciciosCSharp\ListaDeExerciciosCSharp\obj\Debug\ListaDeExerciciosCSharp.csprojAssemblyReference.cache
+C:\Users\L04246\source\repos\ListaDeExerciciosCSharp\ListaDeExerciciosCSharp\obj\Debug\ListaDeExerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\L04246\source\repos\ListaDeExerciciosCSharp\ListaDeExerciciosCSharp\bin\Debug\ListaDeExerciciosCSharp.exe.config
+C:\Users\L04246\source\repos\ListaDeExerciciosCSharp\ListaDeExerciciosCSharp\bin\Debug\ListaDeExerciciosCSharp.exe
+C:\Users\L04246\source\repos\ListaDeExerciciosCSharp\ListaDeExerciciosCSharp\bin\Debug\ListaDeExerciciosCSharp.pdb
+C:\Users\L04246\source\repos\ListaDeExerciciosCSharp\ListaDeExerciciosCSharp\obj\Debug\ListaDeExerciciosCSharp.exe
+C:\Users\L04246\source\repos\ListaDeExerciciosCSharp\ListaDeExerciciosCSharp\obj\Debug\ListaDeExerciciosCSharp.pdb
